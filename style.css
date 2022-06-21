@@ -1,0 +1,58 @@
+h1 {
+    font-family: "Courier New", monospace;
+    font-weight: 100;
+    background-color: rgb(255, 255, 143);
+    height: 30px;
+    width: 450px;
+    padding: 50px;
+    border-radius: 25px;
+    
+  }
+
+  h3 {
+    font-family: "Courier New", monospace;
+    font-weight: 100;
+    text-decoration: line-through;
+    text-decoration-style: solid;
+    text-decoration-color: #97aeff30;
+    text-decoration-thickness: 13px;
+    border-width: 0px;
+    
+    
+  }
+  body {
+    background-color: rgb(255, 255, 255);
+    color: rgb(194, 194, 194);
+  }
+  input {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  button {
+    transition-duration: 0.4s;
+    background-color: white;
+    color: #9bec9d; 
+    border: 2px solid #9bec9d; 
+    border-radius: 25px;
+    margin-right: 30px;
+    margin-left: 30px;
+    height: 50px;
+    width: 100px;
+  }
+  button:hover {
+    background-color: #9bec9d; 
+    color: white;
+    border: 2px solid #ffffff; 
+    
+  }
+  a{
+color: #9bec9d;
+text-decoration: none;
+
+
+  }
